@@ -14,9 +14,13 @@
 ## 📌 Projects
 - 🌟 [Amazon Clone]([https://github.com/yourname/amazon-clone](https://github.com/Jyothsnamatcha-57/amazon_clone)) – Static eCommerce clone using HTML, CSS, JS
 - 🎬 [Movie Recommendation App]([https://github.com/yourname/movie-app](https://github.com/Jyothsnamatcha-57/movie-recommendation)) – React app showing trending movies
-- 💼 [Personal Portfolio](https://github.com/Jyothsnamatcha-57/portfolio) – Built with React 
+- 💼 [Personal Portfolio](https://github.com/Jyothsnamatcha-57/portfolio) – Built with React
+
+- 
 ![Jyothsna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyothsnamatcha-57&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothsnamatcha-57&layout=compact&theme=radical)
+
+
 ## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
